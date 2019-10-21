@@ -19,8 +19,8 @@ it will also be able to return the stock with the
 "Greatest % increase",
 "Greatest % Decrease" 
 and "Greatest total volume". T
-The solution will look as follows:
-
+The result will look as follows:
+![](Image/hard_solution.png)
 
 The VBA script that will allow it to run on every worksheet, i.e., every year, just by running the VBA script once.
 
