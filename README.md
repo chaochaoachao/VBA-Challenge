@@ -27,6 +27,6 @@ The VBA script that will allow it to run on every worksheet, i.e., every year, j
 Other Considerations
 
 alphabetical_testing.xlsx was used while developing my code. This data set is smaller and will allow to test faster. 
-This code should run on this file in less than 1 minutes in my laptop(looping through 28,0000 rows of raw data)
+This code should run on this file in 2 minutes in my laptop(looping through 2,393,136 rows of raw data)
 The script acts the same on each sheet. 
 The joy of VBA is to take the tediousness out of repetitive task and run over and over again with a click of the button.
