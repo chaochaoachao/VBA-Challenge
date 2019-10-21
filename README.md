@@ -12,16 +12,17 @@ Raw data have <ticker> <date> <open price> <high> <low> <close> <volume> columns
 
 Including conditional formatting that will highlight positive change in green and negative change in red.
 The result  look as follows.
+![](Image/moderate_solution.png)
 
-Your solution will also be able to return the stock with the 
+
+it will also be able to return the stock with the 
 "Greatest % increase",
 "Greatest % Decrease" 
 and "Greatest total volume". T
-he solution will look as follows:
+The solution will look as follows:
 
 
-Make the appropriate adjustments to your VBA script that will allow it to run on every worksheet, i.e., every year, just by running the VBA script once.
-
+The VBA script that will allow it to run on every worksheet, i.e., every year, just by running the VBA script once.
 
 Other Considerations
 
